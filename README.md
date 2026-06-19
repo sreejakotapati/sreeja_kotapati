@@ -1,4 +1,4 @@
-# sreeja_kotapati
+
 # 💫 About Me:
 🔭 I’m currently working on AI-powered applications including Demand Forecasting Systems, AI Interview Platforms, Multimodal Smart Document Navigation, and RAG Chatbots.<br><br>👯 I’m looking to collaborate on AI, Machine Learning, Generative AI, Computer Vision, NLP, and Open-Source Python Projects.<br><br>🤝 I’m looking for help with MLOps, Cloud Deployment, LLM Applications, AI Agents, and Production-Ready AI Systems.<br><br>🌱 I’m currently learning Generative AI, LangChain, Agentic AI, Advanced Machine Learning, and Geospatial AI.<br><br>💬 Ask me about Python, Machine Learning, Data Science, NLP, Computer Vision, Streamlit, LangChain, and AI Project Development.<br><br>⚡ Fun fact: I built a multimodal AI system that enables hands-free PDF navigation using eye gaze, hand gestures, and voice commands.
 
